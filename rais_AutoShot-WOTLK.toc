@@ -1,7 +1,0 @@
-## Interface: 30305
-## Title: rais_AutoShot
-## Notes: WOTLK port of the original rais_AutoShot by raisnilt and zarant
-## Author: Macumba
-## SavedVariables: raisAutoShot
-
-rais_AutoShot-WOTLK.lua
